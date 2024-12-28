@@ -1,6 +1,7 @@
 .title__profile {
-    width: 98px;
-    height: 98px;
+   width: 200px;
+   height: 200px;
+    
 }
 
 @media (min-width: 0){
